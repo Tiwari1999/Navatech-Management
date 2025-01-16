@@ -1,0 +1,40 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.pytest_cache/
+.mypy_cache/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*,cover
+.hypothesis/
+xunit-*.xml
+
+# PyCharm
+.idea/
+
+# virtual
+venv/
+.venv/
+env/
+
+# vagrant
+.vagrant/
+
+# direnv
+.direnv/
+
+# Sphinx build dir
+site/
+*.env
